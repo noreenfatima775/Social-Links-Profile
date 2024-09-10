@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live Site]()
+- Solution URL: [Solution](https://github.com/noreenfatima775/Social-Links-Profile)
+- Live Site URL: [Live Site](https://noreenfatima775.github.io/Social-Links-Profile/)
 
 ## My process
 
